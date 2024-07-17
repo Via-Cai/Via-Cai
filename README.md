@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **via.caina@gmail.com**
 
-- ⚡ Fun fact **I have a Doppelgänger named Lia.**
+- ⚡ Fun fact **I have a Doppelgänger named Lia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
