@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Via</h1>
 <h3 align="center">A fresh graduate of Computer Engineering</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://vias-personal-portfolio.vercel.app](https://vias-personal-portfolio.vercel.app)
 
 - 📫 How to reach me **via.caina@gmail.com**
 
-- ⚡ Fun fact **I have a Doppelgänger named Lia**
+- ⚡ Fun fact **I have a Doppelgänger named Lia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
