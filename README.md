@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **via.caina@gmail.com**
 
-- 📄 Know about my experiences [Via Caina_Resume Link](https://blush-lyndsay-25.tiiny.site/)
+- 📄 Know about my experiences [via caina_resume link](https://blush-lyndsay-25.tiiny.site/)
 
 - ⚡ Fun fact **I have a Doppelgänger named Lia.**
 
