@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [via caina_resume link](https://blush-lyndsay-25.tiiny.site/)
 
-- ⚡ Fun fact **I have a Doppelgänger named Lia.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/allivia-caina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allivia-caina/" height="30" width="40" /></a>
