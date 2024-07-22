@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vias-personal-portfolio.vercel.app](https://vias-personal-portfolio.vercel.app)
 
-- 📫 How to reach me **via.caina@gmail.com**
+- 📫 How to reach me via.caina@gmail.com
 
 - 📄 Know about my experiences [via caina_resume link](https://blush-lyndsay-25.tiiny.site/)
 
