@@ -7,7 +7,7 @@
 
 - 📫 How to reach me via.caina@gmail.com
 
-- 📄 Know about my experiences [via caina_resume link](https://blush-lyndsay-25.tiiny.site/)
+- 📄 Know about my experiences [via caina_resume link](https://caina-allivia-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
