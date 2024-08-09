@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Via</h1>
 <h3 align="center">A fresh graduate of Computer Engineering</h3>
 
-- 🌱 I’m currently learning **Data Analytics** and **Data Engineering.**
+- 🌱 I’m currently learning **Data Analytics**, **Data Engineering**, and **Data Visualization**.
 
 - 👨‍💻 All of my projects are available at [https://vias-personal-portfolio.vercel.app](https://vias-personal-portfolio.vercel.app)
 
