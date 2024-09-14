@@ -6,6 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://vias-personal-portfolio.vercel.app](https://vias-personal-portfolio.vercel.app)
 
 - 📫 How to reach me via.caina@gmail.com
+  
+- 📜 Click here to see my certifates [certificates_github](https://github.com/Via-Cai/certificates_online_courses)
 
 - 📄 Know about my experiences [via caina_resume link](https://caina-allivia-resume.tiiny.site) (CTRL + Click to open in new tab)
 
