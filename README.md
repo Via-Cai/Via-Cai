@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Via</h1>
-<h3 align="center">A fresh graduate of Computer Engineering</h3>
+<h3 align="center">BI Developer | BS Computer Engineering</h3>
 
 - 🌱 I’m currently learning **Data Analytics**, **Business Intelligence**, and **Data Visualization**.
 
